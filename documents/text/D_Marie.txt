@@ -1,0 +1,6 @@
+Nom et prénom : Dupont, Marie
+Biographie : Marie Dupont est une archéologue renommée qui a parcouru le monde à la recherche de vestiges historiques. Elle a grandi en France et a toujours été passionnée par l'histoire depuis son plus jeune âge. Elle a obtenu son doctorat en archéologie à l'Université de Paris-Sorbonne et a depuis participé à de nombreuses fouilles archéologiques en Égypte, en Grèce et en Amérique du Sud.
+Métier : Archéologue
+Date de naissance : 12 mai 1975
+Hobbies : En dehors de son travail, Marie aime la photographie, la randonnée et la cuisine française. Elle adore également lire des romans historiques.
+Anecdote : Marie a découvert un artefact rare lors d'une fouille en Égypte, ce qui lui a valu une reconnaissance internationale. Elle est également connue pour son talent à décrypter les anciennes écritures.

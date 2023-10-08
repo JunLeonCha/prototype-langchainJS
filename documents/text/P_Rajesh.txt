@@ -1,0 +1,6 @@
+Nom et prénom : Patel, Rajesh
+Biographie : Rajesh Patel est un ingénieur informatique talentueux originaire de l'Inde. Il a déménagé aux États-Unis pour poursuivre ses études supérieures et a obtenu un diplôme en génie informatique à l'Université de Stanford. Il travaille actuellement pour une grande entreprise de technologie à Silicon Valley.
+Métier : Ingénieur informatique
+Date de naissance : 18 novembre 1980
+Hobbies : Rajesh est un passionné de jeux vidéo et de programmation. Il aime aussi jouer de la guitare électrique dans son groupe de musique amateur.
+Anecdote : Rajesh a développé une application de méditation très populaire qui a été téléchargée par des millions de personnes à travers le monde. Il médite tous les jours pour se détendre et stimuler sa créativité.

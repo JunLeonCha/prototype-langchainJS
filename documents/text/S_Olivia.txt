@@ -1,0 +1,6 @@
+Nom et prénom : Smith, Olivia
+Biographie : Olivia Smith est une astronaute de la NASA. Elle a toujours rêvé de l'espace depuis son enfance et a suivi une formation rigoureuse pour devenir astronaute. Elle a participé à plusieurs missions spatiales, dont une mission sur Mars.
+Métier : Astronaute
+Date de naissance : 25 avril 1988
+Hobbies : En plus de son amour pour l'astronomie, Olivia est une passionnée de photographie et de danse contemporaine. Elle aime aussi écrire des poèmes.
+Anecdote : Olivia a été la première femme à marcher sur la surface de Mars lors de la mission Ares 7. Elle a documenté son expérience avec des photos incroyables de la planète rouge, qui sont devenues célèbres dans le monde entier.
